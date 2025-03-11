@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/586fe001-e55d-4a0e-b9f9-ec0e737623bb
+**URL**: https://buytopia-system.vercel.app/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/586fe001-e55d-4a0e-b9f9-ec0e737623bb) and start prompting.
+Simply visit the [Lovable Project](https://buytopia-system.vercel.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with .
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/586fe001-e55d-4a0e-b9f9-ec0e737623bb) and click on Share -> Publish.
+Simply open [Lovable](https://buytopia-system.vercel.app/) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
