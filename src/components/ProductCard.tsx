@@ -1,9 +1,8 @@
-
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Heart, ShoppingCart } from 'lucide-react';
 import { Button } from "@/components/ui/button";
-import { toast } from '@/components/ui/sonner';
+import { toast } from '@/hooks/use-toast';
 import { type Product } from '@/lib/data';
 import { useCart } from '@/lib/useCart';
 

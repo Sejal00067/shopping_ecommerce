@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
 import { products } from '@/lib/data';
 import { useCart } from '@/lib/useCart';
-import { toast } from '@/components/ui/sonner';
+import { toast } from '@/hooks/use-toast';
 
 const ProductDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
